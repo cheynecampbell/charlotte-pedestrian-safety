@@ -54,6 +54,10 @@ OpenStreetMap Contributors (2020), ‘Planet dump retrieved from https://planet.
 
 Mecklenburg County (2020c), ‘Tax parcel ownership and building data’. Electronic dataset, Open Mapping, available at: http://maps.co.mecklenburg.nc.us/openmapping/data.html?search=Tax%20Parcel%20Ownership%20and%20Building%20Data Accessed 21 Jul. 2020.
 
+Charlotte DOT (2019b), ‘Parking meters’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/parking-meters?geometry=-80.849%2C35.223%2C-80.834%2C35.226 Accessed 21 Jul. 2020.
+
+Charlotte DOT (2019c), ‘Traffic signals’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/traffic-signals-1 Accessed 21 Jul. 2020.
 
 
+NCDOT (2020), ‘NCDOT road characteristics’. Electronic dataset, NC OneMap, available at: https://www.nconemap.gov/datasets/NCDOT::ncdot-road-characteristics?geometry=-80.856%2C35.222%2C-80.825%2C35.228 Accessed 21 Jul. 2020.
 
