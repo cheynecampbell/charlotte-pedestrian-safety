@@ -27,7 +27,7 @@ Parking_Meters                      | Parking Meters           | Charlotte DOT (
 Traffic_Signals                     | Traffic Signals          | Charlotte DOT (2019c)
 Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
 
-* = files too large to be uploaded to GitHub; can be downloaded from link 
+\* = files too large to be uploaded to GitHub; can be downloaded from link 
 
 Data Sources
 
