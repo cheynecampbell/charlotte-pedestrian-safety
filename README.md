@@ -30,13 +30,6 @@ Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
 
 Data Sources
 
+Charlotte DOT (2019a), ‘Bike lanes’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/bike-lanes?geometry=-82.798%2C34.842%2C-78.843%2C35.627 Accessed 21 Jul. 2020.
 
-
-
-
-
-
-
-Mecklenburg County (2020b), ‘Mecklenburg County jurisdictions’. Electronic dataset, Open Mapping, available at: http://maps.co.mecklenburg.nc .us/openmapping/data.html?search=Mecklenburg%20County %20Jurisdictions [Accessed 21 Jul. 2020].
-
-Char-Meck Planning Dept. (2019), ‘Downtown wards’. Electronic dataset, Char- lotte Open Data Portal, available at: https://data.charlottenc.gov /datasets/64dde23672004971a1b2dbf3a12f733e 13 [Accessed 21 Jul. 2020].
+Charlotte Area Transit (2019), ‘Bus stops’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/e0643b893ea24703830c3e41e231db69_0 Accessed 21 Jul. 2020.
