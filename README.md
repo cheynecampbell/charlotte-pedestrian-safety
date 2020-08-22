@@ -1,6 +1,7 @@
-# Charlotte, North Carolina Pedestrian Safety Analysis
+# Taking Steps Towards Pedestrian Safety: A Case Study of Charlotte, North Carolina
 
-Can features of the built environment be used to predict the locations of pedestrian crashes at the street level in Uptown Charlotte, North Carolina?
+Can features of the built environment be used to predict the locations of pedestrian crashes 
+at the street level in Uptown Charlotte, North Carolina?
 
 Run files in the following order WITHOUT clearing the environment:
 1. 1_CharPedCrashes_CrashDescrStats.R
