@@ -11,21 +11,22 @@ Sources for data clearly linked within R files.
 
 |File Name                           | Description              | Source                          |
 |:----------------------------------:|:------------------------:|:-------------------------------:|
-Mecklenburg_Jurisdictions           | Charlotte Boundary       | Mecklenburg County (2020b)
-Downtown_Wards                      | Uptown Boundary          | Char-Meck Planning Dept. (2019)
-Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
-NCDOT_BikePed_Crashes_2007_2018.gdb | Pedestrian Crashes       | NCDOT DBPT (2020)
-Parcel_TaxData_Uptown               | Tax Parcel Building Data | Mecklenburg County (2020c)
+Bike_Lanes                          | Bike Lanes               | Charlotte DOT (2019a)
 Bus_Stops                           | Bus Stops                | Charlotte Area Transit (2019)
+Downtown_Wards                      | Uptown Boundary          | Char-Meck Planning Dept. (2019)
+Greenways_Trees                     | Trees                    | Porter (2018)
+High_Injury_Network                 | High Injury Network      | CharlotteNC (2020)
 LYNX_Blue_Line_Stations             | Light Rail Stations      | Jenkins (2019a)
 LYNX_Gold_Line_Stops                | Light Rail Stations      | Jenkins (2019b)
-Traffic_Signals                     | Traffic Signals          | Charlotte DOT (2019c)
-Greenways_Trees                     | Trees                    | Porter (2018)
-Bike_Lanes                          | Bike Lanes               | Charlotte DOT (2019a)
-Parking_Meters                      | Parking Meters           | Charlotte DOT (2019b)
-OSM_Crossings                       | Crosswalks               | OpenStreetMap Contributors (2020)
+Mecklenburg_Jurisdictions           | Charlotte Boundary       | Mecklenburg County (2020b)
 NCDOT_2018_TrafficSegments          | AADT Volumes             | Traffic Survey Group (2018)
-High_Injury_Network                 | High Injury Network      | CharlotteNC (2020)
+NCDOT_BikePed_Crashes_2007_2018.gdb | Pedestrian Crashes       | NCDOT DBPT (2020)
+OSM_Crossings                       | Crosswalks               | OpenStreetMap Contributors (2020)
+Parcel_TaxData_Uptown               | Tax Parcel Building Data | Mecklenburg County (2020c)
+Parking_Meters                      | Parking Meters           | Charlotte DOT (2019b)
+Traffic_Signals                     | Traffic Signals          | Charlotte DOT (2019c)
+Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
+
 
 Data Sources
 
