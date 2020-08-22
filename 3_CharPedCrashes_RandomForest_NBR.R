@@ -229,7 +229,7 @@ networkMapCont <- function(variable, variableDescr) {
           legend.text = element_text(size = 8),
           legend.justification = c(0, 0), legend.position = c(0, 0),
           legend.box.margin = ggplot2::margin(c(10,10,10,10)))
-  
+
   # check output
   print(variableMap)
 }

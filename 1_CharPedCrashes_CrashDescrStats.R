@@ -292,7 +292,7 @@ dev.off()
 
 rm(charCenter, charExtent, charInsetMap, Charlotte, crashDayTime, crashTypeHist, heatChar, 
    heatDayTime, heatUptown, Mecklenburg, pedCrashChar, pedCrashDataSF, barCharts, roadsUnique, 
-   roadsUptown, studyAreaUSA, uptownExtent, baseMapChar, baseMapUSA, baseMapUptown, i, pedCrashData, 
+   roadsUptown, studyAreaUSA, uptownExtent, baseMapUSA, baseMapChar, baseMapUptown, i, pedCrashData, 
    variableList, variableNames, makeBarChart)
 
 dev.off()
