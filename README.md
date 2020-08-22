@@ -48,3 +48,12 @@ Mecklenburg County (2020b), ‘Mecklenburg County jurisdictions’. Electronic d
 
 Traffic Survey Group (2018), ‘2018 traffic segments shapefile’. Electronic dataset, Connect NCDOT, available at: https://connect.ncdot.gov/resources/State-Mapping/Pages/Traffic-Survey-GIS-Data.aspx Accessed 21 Jul. 2020.
 
+NCDOT DBPT (2020), ‘Bicyclist and pedestrian crashes that occurred in North Carolina between years 2007 through 2018’. Electronic dataset, ArcGIS, available at: https://www.arcgis.com/home/item.html?id=801a34b6d3e64786a131d1fa2eca793d Accessed 21 Jul. 2020.
+
+OpenStreetMap Contributors (2020), ‘Planet dump retrieved from https://planet.osm.org’.
+
+Mecklenburg County (2020c), ‘Tax parcel ownership and building data’. Electronic dataset, Open Mapping, available at: http://maps.co.mecklenburg.nc.us/openmapping/data.html?search=Tax%20Parcel%20Ownership%20and%20Building%20Data Accessed 21 Jul. 2020.
+
+
+
+
