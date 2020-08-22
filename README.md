@@ -9,9 +9,9 @@ Run files in the following order WITHOUT clearing the environment:
 
 Sources for data clearly linked within R files. 
 
---------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________
 File Name                           | Description              | Source
---------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________
 Mecklenburg_Jurisdictions           | Charlotte Boundary       | Mecklenburg County (2020b)
 Downtown_Wards                      | Uptown Boundary          | Char-Meck Planning Dept. (2019)
 Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
@@ -27,7 +27,7 @@ Parking_Meters                      | Parking Meters           | Charlotte DOT (
 OSM_Crossings                       | Crosswalks               | OpenStreetMap Contributors (2020)
 NCDOT_2018_TrafficSegments          | AADT Volumes             | Traffic Survey Group (2018)
 High_Injury_Network                 | High Injury Network      | CharlotteNC (2020)
---------------------------------------------------------------------------------------------------
+___________________________________________________________________________________________________
 
 Data Sources
 
