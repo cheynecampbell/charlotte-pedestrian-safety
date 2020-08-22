@@ -44,3 +44,7 @@ Jenkins, W. (2019a), ‘Lynx blue line stations’. Electronic dataset, Charlott
 
 Jenkins, W. (2019b), ‘Lynx gold line stops’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/lynx-gold-line-stops Accessed 14 Jul. 2020.
 
+Mecklenburg County (2020b), ‘Mecklenburg County jurisdictions’. Electronic dataset, Open Mapping, available at: http://maps.co.mecklenburg.nc.us/openmapping/data.html?search=Mecklenburg%20County%20Jurisdictions Accessed 21 Jul. 2020.
+
+Traffic Survey Group (2018), ‘2018 traffic segments shapefile’. Electronic dataset, Connect NCDOT, available at: https://connect.ncdot.gov/resources/State-Mapping/Pages/Traffic-Survey-GIS-Data.aspx Accessed 21 Jul. 2020.
+
