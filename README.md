@@ -40,3 +40,7 @@ Porter, T. (2018), ‘Charlotte, NC greenways trees’. Electronic dataset, Koor
 
 CharlotteNC (2020), ‘High Injury Network’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/4a27df737ba24be7acf1314f38925a4f_87 Accessed 31 Jul. 2020.
 
+Jenkins, W. (2019a), ‘Lynx blue line stations’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/lynx-blue-line-stations Accessed 16 Jul. 2020.
+
+Jenkins, W. (2019b), ‘Lynx gold line stops’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/lynx-gold-line-stops Accessed 14 Jul. 2020.
+
