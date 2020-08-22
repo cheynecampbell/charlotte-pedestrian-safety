@@ -1,13 +1,13 @@
 # Charlotte, North Carolina Pedestrian Safety Analysis
 
-Can features of the built environment be used to predict pedestrian crashes at the street level in Charlotte, North Carolina?
+Can features of the built environment be used to predict the locations of pedestrian crashes at the street level in Uptown Charlotte, North Carolina?
 
 Run files in the following order WITHOUT clearing the environment:
 1. 1_CharPedCrashes_CrashDescrStats.R
 2. 2_CharPedCrashes_IndepVariables.R
 3. 3_CharPedCrashes_RandomForest_NBR.R
-
-Sources for data clearly linked within R files. 
+   
+Sources for data clearly linked within R files, and outlined below: 
 
 |File Name                           | Description              | Source                          |
 |:----------------------------------:|:------------------------:|:-------------------------------:|
@@ -28,6 +28,8 @@ Traffic_Signals                     | Traffic Signals          | Charlotte DOT (
 Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
 
 \* = files too large to be uploaded to GitHub; can be downloaded from link 
+
+______________________________________________________________________________________________________________________________________________________________
 
 Data Sources
 
@@ -58,7 +60,6 @@ Mecklenburg County (2020c), ‘Tax parcel ownership and building data’. Electr
 Charlotte DOT (2019b), ‘Parking meters’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/parking-meters?geometry=-80.849%2C35.223%2C-80.834%2C35.226 Accessed 21 Jul. 2020.
 
 Charlotte DOT (2019c), ‘Traffic signals’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/traffic-signals-1 Accessed 21 Jul. 2020.
-
 
 NCDOT (2020), ‘NCDOT road characteristics’. Electronic dataset, NC OneMap, available at: https://www.nconemap.gov/datasets/NCDOT::ncdot-road-characteristics?geometry=-80.856%2C35.222%2C-80.825%2C35.228 Accessed 21 Jul. 2020.
 
