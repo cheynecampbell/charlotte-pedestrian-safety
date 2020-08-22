@@ -33,3 +33,10 @@ Data Sources
 Charlotte DOT (2019a), ‘Bike lanes’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/bike-lanes?geometry=-82.798%2C34.842%2C-78.843%2C35.627 Accessed 21 Jul. 2020.
 
 Charlotte Area Transit (2019), ‘Bus stops’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/e0643b893ea24703830c3e41e231db69_0 Accessed 21 Jul. 2020.
+
+Char-Meck Planning Dept. (2019), ‘Downtown wards’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/64dde23672004971a1b2dbf3a12f733e_13 Accessed 21 Jul. 2020.
+
+Porter, T. (2018), ‘Charlotte, NC greenways trees’. Electronic dataset, Koordinates, available at: https://koordinates.com/layer/96938-charlotte-nc-greenways-trees/ Accessed 21 Jul. 2020.
+
+CharlotteNC (2020), ‘High Injury Network’. Electronic dataset, Charlotte Open Data Portal, available at: https://data.charlottenc.gov/datasets/4a27df737ba24be7acf1314f38925a4f_87 Accessed 31 Jul. 2020.
+
