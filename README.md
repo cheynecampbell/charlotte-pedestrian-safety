@@ -14,12 +14,12 @@ Sources for data clearly linked within R files.
 Bike_Lanes                          | Bike Lanes               | Charlotte DOT (2019a)
 Bus_Stops                           | Bus Stops                | Charlotte Area Transit (2019)
 Downtown_Wards                      | Uptown Boundary          | Char-Meck Planning Dept. (2019)
-Greenways_Trees                     | Trees                    | Porter (2018)
+Greenways_Trees *                   | Trees                    | Porter (2018)
 High_Injury_Network                 | High Injury Network      | CharlotteNC (2020)
 LYNX_Blue_Line_Stations             | Light Rail Stations      | Jenkins (2019a)
 LYNX_Gold_Line_Stops                | Light Rail Stations      | Jenkins (2019b)
 Mecklenburg_Jurisdictions           | Charlotte Boundary       | Mecklenburg County (2020b)
-NCDOT_2018_TrafficSegments          | AADT Volumes             | Traffic Survey Group (2018)
+NCDOT_2018_TrafficSegments *        | AADT Volumes             | Traffic Survey Group (2018)
 NCDOT_BikePed_Crashes_2007_2018.gdb | Pedestrian Crashes       | NCDOT DBPT (2020)
 OSM_Crossings                       | Crosswalks               | OpenStreetMap Contributors (2020)
 Parcel_TaxData_Uptown               | Tax Parcel Building Data | Mecklenburg County (2020c)
@@ -27,6 +27,7 @@ Parking_Meters                      | Parking Meters           | Charlotte DOT (
 Traffic_Signals                     | Traffic Signals          | Charlotte DOT (2019c)
 Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
 
+* = files too large to be uploaded to GitHub; can be downloaded from link 
 
 Data Sources
 
