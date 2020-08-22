@@ -10,8 +10,8 @@ Run files in the following order WITHOUT clearing the environment:
 Sources for data clearly linked within R files. 
 
 ___________________________________________________________________________________________________
-File Name                           | Description              | Source
-___________________________________________________________________________________________________
+|File Name                           | Description              | Source                          |
+|:----------------------------------:|:------------------------:|:-------------------------------:|
 Mecklenburg_Jurisdictions           | Charlotte Boundary       | Mecklenburg County (2020b)
 Downtown_Wards                      | Uptown Boundary          | Char-Meck Planning Dept. (2019)
 Uptown_Road_Characteristics         | Road Segments            | NCDOT (2020)
